@@ -28,7 +28,7 @@ require (
 	github.com/jonboulle/clockwork v0.3.0 // indirect
 	github.com/lib/pq v1.10.7 // indirect
 	github.com/lightningnetwork/lightning-onion v1.2.0 // indirect
-	github.com/lightningnetwork/lnd v0.15.2-beta
+	github.com/lightningnetwork/lnd v0.15.4-beta
 	github.com/lightningnetwork/lnd/tor v1.1.0 // indirect
 	github.com/ltcsuite/ltcd v0.22.1-beta // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2 // indirect
